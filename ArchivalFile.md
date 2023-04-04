@@ -15,7 +15,7 @@ ___
 ___
 |What is Archival?
 
-   Archival is an File Management Systemn. The archive Document Consist process of storing documents that are no longer in use now in secure storage.
+   Archival is an File Management Systemn. The archive Document Consist process of storing documents that are no longer in use now on secure storage.
 
    Example : File Type- Doc, pdf, images, etc.
 
@@ -75,7 +75,6 @@ after submit -  submit
 Add
 
 Uploading Archival File from Our PC (Any Files)
-
 ---
 ***ApprovalList***
 
