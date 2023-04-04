@@ -101,6 +101,5 @@ Uploading Archival File from Our PC (Any Files)
 
 ___Image___
 
----
+---![Archival](https://user-images.githubusercontent.com/128573505/229757288-80544325-0597-49a7-8b1a-a90f0f55bec4.jpg)
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/SYS/Desktop/Archival/Archival.JPG?version%3D1680601002422)
